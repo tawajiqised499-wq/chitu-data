@@ -1,0 +1,12 @@
+# Python specific patterns
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/
+logs/
+venv/
+.env_*  # virtualenv directories
+*.iml  # IntelliJ IDEA files
+*.sublime-workspace  # Sublime Text files
+*.sublime-project
